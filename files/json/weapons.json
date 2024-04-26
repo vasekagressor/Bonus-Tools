@@ -1,0 +1,307 @@
+[
+    {
+        "name": "Fist",
+        "server_id": 0,
+        "available": true
+    },
+    {
+        "name": "Brass Knuckles",
+        "server_id": 1,
+        "available": true
+    },
+    {
+        "name": "Golf Club",
+        "server_id": 2,
+        "available": true
+    },
+    {
+        "name": "Nightstick",
+        "server_id": 3,
+        "available": true
+    },
+    {
+        "name": "Knife",
+        "server_id": 4,
+        "available": false
+    },
+    {
+        "name": "Baseball Bat",
+        "server_id": 5,
+        "available": true
+    },
+    {
+        "name": "Shovel",
+        "server_id": 6,
+        "available": true
+    },
+    {
+        "name": "Pool Cue",
+        "server_id": 7,
+        "available": true
+    },
+    {
+        "name": "Katana",
+        "server_id": 8,
+        "available": true
+    },
+    {
+        "name": "Chainsaw",
+        "server_id": 9,
+        "available": true
+    },
+    {
+        "name": "Purple Dildo",
+        "server_id": 10,
+        "available": true
+    },
+    {
+        "name": "Dildo",
+        "server_id": 11,
+        "available": true
+    },
+    {
+        "name": "Vibrator",
+        "server_id": 12,
+        "available": true
+    },
+    {
+        "name": "Silver Vibrator",
+        "server_id": 13,
+        "available": true
+    },
+    {
+        "name": "Flowers",
+        "server_id": 14,
+        "available": true
+    },
+    {
+        "name": "Cane",
+        "server_id": 15,
+        "available": true
+    },
+    {
+        "name": "Grenade",
+        "server_id": 16,
+        "available": false
+    },
+    {
+        "name": "Tear Gas",
+        "server_id": 17,
+        "available": true
+    },
+    {
+        "name": "Molotov Cocktail",
+        "server_id": 18,
+        "available": false
+    },
+    {
+        "name": "Colt 45",
+        "server_id": 22,
+        "available": true
+    },
+    {
+        "name": "Silenced 9mm",
+        "server_id": 23,
+        "available": true
+    },
+    {
+        "name": "Desert Eagle",
+        "server_id": 24,
+        "available": true
+    },
+    {
+        "name": "Shotgun",
+        "server_id": 25,
+        "available": true
+    },
+    {
+        "name": "Sawnoff Shotgun",
+        "server_id": 26,
+        "available": true
+    },
+    {
+        "name": "Combat Shotgun",
+        "server_id": 27,
+        "available": true
+    },
+    {
+        "name": "Micro Uzi",
+        "server_id": 28,
+        "available": true
+    },
+    {
+        "name": "MP5",
+        "server_id": 29,
+        "available": true
+    },
+    {
+        "name": "AK-47",
+        "server_id": 30,
+        "available": true
+    },
+    {
+        "name": "M4",
+        "server_id": 31,
+        "available": true
+    },
+    {
+        "name": "Tec-9",
+        "server_id": 32,
+        "available": true
+    },
+    {
+        "name": "Country Rifle",
+        "server_id": 33,
+        "available": true
+    },
+    {
+        "name": "Sniper Rifle",
+        "server_id": 34,
+        "available": true
+    },
+    {
+        "name": "RPG",
+        "server_id": 35,
+        "available": false
+    },
+    {
+        "name": "HS Rocket",
+        "server_id": 36,
+        "available": false
+    },
+    {
+        "name": "Flamethrower",
+        "server_id": 37,
+        "available": false
+    },
+    {
+        "name": "Minigun",
+        "server_id": 38,
+        "available": true
+    },
+    {
+        "name": "Satchel Charge",
+        "server_id": 39,
+        "available": false
+    },
+    {
+        "name": "Detonator",
+        "server_id": 40,
+        "available": true
+    },
+    {
+        "name": "Spraycan",
+        "server_id": 41,
+        "available": true
+    },
+    {
+        "name": "Fire Extinguisher",
+        "server_id": 42,
+        "available": true
+    },
+    {
+        "name": "Camera",
+        "server_id": 43,
+        "available": true
+    },
+    {
+        "name": "Night Vis Goggles",
+        "server_id": 44,
+        "available": false
+    },
+    {
+        "name": "Thermal Goggles",
+        "server_id": 45,
+        "available": false
+    },
+    {
+        "name": "Parachute",
+        "server_id": 46,
+        "available": true
+    },
+    {
+        "name": "Silver Deagle",
+        "server_id": 71,
+        "available": true
+    },
+    {
+        "name": "Gold Deagle",
+        "server_id": 72,
+        "available": true
+    },
+    {
+        "name": "Glock Gradient",
+        "server_id": 73,
+        "available": true
+    },
+    {
+        "name": "Deagle Flame",
+        "server_id": 74,
+        "available": true
+    },
+    {
+        "name": "Colt Python Royal",
+        "server_id": 75,
+        "available": true
+    },
+    {
+        "name": "Colt Python Silver",
+        "server_id": 76,
+        "available": true
+    },
+    {
+        "name": "AK47 Roses",
+        "server_id": 77,
+        "available": true
+    },
+    {
+        "name": "AK47 Gold",
+        "server_id": 78,
+        "available": true
+    },
+    {
+        "name": "M249 Graffiti",
+        "server_id": 79,
+        "available": true
+    },
+    {
+        "name": "Saiga Gold",
+        "server_id": 80,
+        "available": true
+    },
+    {
+        "name": "PPSh Standart",
+        "server_id": 81,
+        "available": true
+    },
+    {
+        "name": "M249 Standart",
+        "server_id": 82,
+        "available": true
+    },
+    {
+        "name": "Scorpion Standart",
+        "server_id": 83,
+        "available": true
+    },
+    {
+        "name": "AKS74 Camo 1",
+        "server_id": 84,
+        "available": true
+    },
+    {
+        "name": "AK47 Camo 1",
+        "server_id": 85,
+        "available": true
+    },
+    {
+        "name": "Shotgun Rebecca",
+        "server_id": 86,
+        "available": true
+    },
+    {
+        "name": "Doomgun",
+        "server_id": 87,
+        "available": true
+    }
+]
