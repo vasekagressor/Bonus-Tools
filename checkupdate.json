@@ -1,4 +1,8 @@
 {
   "updateurl": "https://github.com/dddaannyy/Bonus-Tools/raw/main/ArizonaTools.luac",
-  "latest": "1.13.7 Release" 
+  "latest": "1.13.7 Release"
+  "changes": [
+           "Добавлена функция контроля за флудом в разных чатах. Подробнее в /amenu - Мониторинг - 2 страница - Контроль флуда",
+           "Команда /trp теперь работает на сервере Vice-City",
+	   }
 }
